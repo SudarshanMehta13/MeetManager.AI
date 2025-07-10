@@ -1,7 +1,6 @@
 #MeetManager.AI
 
 ScrumMasterAI 🧠🚀
-🏆 Winner – Cisco Hack-AI-thon 2024
 
 ScrumMasterAI is an AI-driven productivity solution that transforms Webex meeting recordings into actionable insights — automatically generating answers, summaries, and follow-ups, while integrating seamlessly into your existing workflow.
 
