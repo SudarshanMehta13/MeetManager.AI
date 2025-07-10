@@ -5,7 +5,7 @@ import os
 def trigger_jenkins_build():
     """Trigger a Jenkins build."""
     # Define the URL and endpoint
-    url = "https://engci-private-sjc.cisco.com/jenkins/apic/job/Pipelines/job/apic-build/job/release_unified_catc313_converged_devtest_803/buildWithParameters"
+    url = "dummyURL"
 
     # Credentials
     username = os.getenv("jenkins_username")
